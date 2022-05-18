@@ -3,7 +3,7 @@
   <name>exprob_moveit_assignment3</name>
   <version>0.3.0</version>
   <description>
-     An automatically generated package with all the configuration and launch files for using the m2wr with the MoveIt Motion Planning Framework
+     An automatically generated package with all the configuration and launch files for using the myrobot3 with the MoveIt Motion Planning Framework
   </description>
   <author email="s5063114@studenti.unige.it">zoe betta</author>
   <maintainer email="s5063114@studenti.unige.it">zoe betta</maintainer>

@@ -1,5 +1,4 @@
 <launch>
 	<!-- Define MoveIt controller manager plugin -->
-	<rosparam file="$(find exprob_moveit_assignment3)/config/ros_controllers.yaml" command="load"/> 
 	<param name="moveit_controller_manager" value="moveit_ros_control_interface::MoveItControllerManager" />
 </launch>
